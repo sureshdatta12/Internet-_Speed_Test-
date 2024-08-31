@@ -62,8 +62,14 @@ This is a Python-based GUI application to test your internet speed using the `sp
 
     In the application window, you will see a "Check Speed" button.
     Click the "Check Speed" button to start testing your internet speed.
-    The application will display your Download and Upload speeds in Mbps. 
-  
+    The application will display your Download and Upload speeds in Mbps.
+
+
+# Outputs:
+
+![op 1](https://github.com/user-attachments/assets/a8c50c1c-add1-4be7-8179-f70306859da4)  ![op 2](https://github.com/user-attachments/assets/72885803-7b34-4498-a7a6-345f4d350af4)
+
+
 
 
 
